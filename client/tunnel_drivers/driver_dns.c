@@ -20,7 +20,7 @@
 
 #include "driver_dns.h"
 
-#define MAX_FIELD_LENGTH 62
+#define MAX_FIELD_LENGTH 60
 #define MAX_DNS_LENGTH   255
 #define WILDCARD_PREFIX  "dnscat"
 
